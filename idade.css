@@ -1,0 +1,33 @@
+body{
+  background: #38caf7;
+   font: normal 15pt Arial
+ }
+ 
+ header{
+   color: #ffffff;
+   text-align: center;
+ }
+ h2{
+   text-align: center;
+ }
+ 
+ #cor-fundo.input{
+   display: none;
+ }
+ section{
+   background: #ffffff;
+   border-radius: 10px;
+   padding: 15px;
+   width: 500px;
+   margin: auto; 
+   box-shadow: 3px 3px 10px #0000009a;
+ }
+ div {
+   text-align: center;
+   padding: 5px;
+ }
+ footer{
+   color: #ffffff;
+   text-align: center;
+   font-style: italic;
+ }
